@@ -1,15 +1,16 @@
 {
   "files": {
     "main.css": "/myportfolio/static/css/main.6a92e324.css",
-    "main.js": "/myportfolio/static/js/main.5624ace4.js",
+    "main.js": "/myportfolio/static/js/main.8a682497.js",
     "static/media/HCDAV WalkThrough.mp4": "/myportfolio/static/media/HCDAV WalkThrough.b176892fe939b41151ca.mp4",
     "static/media/BusFleetManager WalkThrough.mp4": "/myportfolio/static/media/BusFleetManager WalkThrough.683f19c98373f560c316.mp4",
+    "static/media/Harsha_Resume.pdf": "/myportfolio/static/media/Harsha_Resume.aae55d5bf63779a10758.pdf",
     "index.html": "/myportfolio/index.html",
     "main.6a92e324.css.map": "/myportfolio/static/css/main.6a92e324.css.map",
-    "main.5624ace4.js.map": "/myportfolio/static/js/main.5624ace4.js.map"
+    "main.8a682497.js.map": "/myportfolio/static/js/main.8a682497.js.map"
   },
   "entrypoints": [
     "static/css/main.6a92e324.css",
-    "static/js/main.5624ace4.js"
+    "static/js/main.8a682497.js"
   ]
 }
