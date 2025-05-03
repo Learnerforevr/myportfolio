@@ -2,6 +2,7 @@ import React from 'react'
 import styles from './App.module.css'
 import bsfltmngr from './Components/BusFleetManager WalkThrough.mp4'
 import hcdav from './Components/HCDAV WalkThrough.mp4'
+import resume from './Resume/Harsha_Resume.pdf'
 
 
 function App() 
@@ -93,7 +94,7 @@ function App()
           </div>
 
         <div className={styles.rsume}>
-          <button onClick={() => window.open('/Resume.pdf', '_blank')}>
+          <button onClick={() => window.open(resume, '_blank')}>
             🚀 Explore My Resume
           </button>
         </div>
